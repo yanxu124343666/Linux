@@ -1,6 +1,7 @@
 # Linux
 
 Assignment为最终作业
+(由于代码要接受检查及Makefile的关系，就把.c文件都传了上来)
 Assignment中部分文件的解读：
 
 libDataType.a：一个静态库，包含栈、队列、树、图四种数据结构
